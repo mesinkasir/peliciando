@@ -57,8 +57,6 @@ WORK :
 + insert THEME = 'pelicianido' on pelicanconf.py
 + or open pelicanconf.py from peliciando and copy to project/pelicanconf.py
 
-
-
 --------------------------------------------------------------------------------------------------------------------
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
@@ -71,5 +69,3 @@ with moneygram or western union
 + IBAN/SWIFT CODE : CENAIDJA
 
 --------------------------------------------------------------------------------------------------------------------
-
-
