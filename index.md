@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Peliciando
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/peliciando/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A blast fast modern with SEO for phyton pelician template
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![A blast fast modern with SEO for phyton pelician template](peliciando.jpg)
 
-### Markdown
+Test drive demo [https://rakgondola.web.app/ →](https://rakgondola.web.app/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation [https://www.hockeycomputindo.com/2022/03/new-pelician-template-pecliando-phyton.html →](https://www.hockeycomputindo.com/2022/03/new-pelician-template-pecliando-phyton.html)
 
-```markdown
-Syntax highlighted code block
+------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+Recipes :
++ Phyton
++ Pelician
++ Bootstrap
++ Primer
++ Axcora
 
-- Bulleted
-- List
+--------------------------------------
 
-1. Numbered
-2. List
+### DISPLAY
 
-**Bold** and _Italic_ and `Code` text
+![A blast fast modern with SEO for phyton pelician template](home.png)
 
-[Link](url) and ![Image](src)
-```
+Home page with article list
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![A blast fast modern with SEO for phyton pelician template](page.png)
 
-### Jekyll Themes
+Other page with image
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/peliciando/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![A blast fast modern with SEO for phyton pelician template](mobile.png)
 
-### Support or Contact
+Mobile display
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+------------------------
+
+
+Test drive demo [https://rakgondola.web.app/ →](https://rakgondola.web.app/)
+
+Documentation [https://www.hockeycomputindo.com/2022/03/new-pelician-template-pecliando-phyton.html →](https://www.hockeycomputindo.com/2022/03/new-pelician-template-pecliando-phyton.html)
+
+-------------------------------
+
+WORK :
++ create venv on pelician project
++ download source code pelicando
++ open venv\Lib\site-packages\pelican\themes
++ upload peliciando to themes folder
++ open pelicanconf.py
++ insert THEME = 'pelicianido' on pelicanconf.py
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
+
+
