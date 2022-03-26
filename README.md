@@ -17,6 +17,11 @@ Recipes :
 + Primer
 + Axcora
 
+Features: 
++ Blog
++ Markdown
++ Auto SEO
+
 --------------------------------------
 
 ### DISPLAY
