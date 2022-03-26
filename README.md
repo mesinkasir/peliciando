@@ -1,8 +1,8 @@
 # Peliciando
 
-A blast fast modern with SEO for phyton pelician template
+A blast fast modern with SEO for phyton pelican template
 
-![A blast fast modern with SEO for phyton pelician template](peliciando.jpg)
+![A blast fast modern with SEO for phyton pelican template](peliciando.jpg)
 
 Test drive demo [https://rakgondola.web.app/ →](https://rakgondola.web.app/)
 
@@ -12,7 +12,7 @@ Documentation [https://www.hockeycomputindo.com/2022/03/new-pelician-template-pe
 
 Recipes :
 + Phyton
-+ Pelician
++ GetPelican
 + Bootstrap
 + Primer
 + Axcora
@@ -26,15 +26,15 @@ Features:
 
 ### DISPLAY
 
-![A blast fast modern with SEO for phyton pelician template](home.png)
+![A blast fast modern with SEO for phyton pelican template](home.png)
 
 Home page with article list
 
-![A blast fast modern with SEO for phyton pelician template](page.png)
+![A blast fast modern with SEO for phyton pelican template](page.png)
 
 Other page with image
 
-![A blast fast modern with SEO for phyton pelician template](mobile.png)
+![A blast fast modern with SEO for phyton pelican template](mobile.png)
 
 Mobile display
 
@@ -49,7 +49,7 @@ Documentation [https://www.hockeycomputindo.com/2022/03/new-pelician-template-pe
 -------------------------------
 
 WORK :
-+ create venv on pelician project
++ create venv on pelican project
 + download source code pelicando
 + open venv\Lib\site-packages\pelican\themes
 + upload peliciando to themes folder
