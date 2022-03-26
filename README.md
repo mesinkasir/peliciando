@@ -57,63 +57,116 @@ WORK :
 + insert THEME = 'pelicianido' on pelicanconf.py
 
 pelicanconf.py
-<code>
+`
 AUTHOR = 'your name'
-<br>SITENAME = 'Pelician Phyton Website Title'
-<br>SITEURL = 'example.com'
-<br>
-<br># inject a pelciando themes
-<br>THEME = 'peliciando'
-<br>
-<br>PATH = 'content'
-<br>    
-<br># your time zone
-<br>TIMEZONE = 'Asia/Jakarta'
-<br>
-<br># web lang here
-<br>DEFAULT_LANG = 'en'
-<br>
-<br># Feed generation is usually not desired when developing
-<br>FEED_ALL_ATOM = None
-<br>CATEGORY_FEED_ATOM = None
-<br>TRANSLATION_FEED_ATOM = None
-<br>AUTHOR_FEED_ATOM = None
-<br>AUTHOR_FEED_RSS = None
-<br>
-<br># Page menu for change page on web display
-<br>PAGES = (
-<br>		 ('Home', 'https://example.com'),
-<br>         ('About', 'https://example.com/about.html'),
-<br>         ('Product', 'https://example.com/product.html'),
-<br>         ('Order', 'https://example.com/order.html'),
-<br>         ('Contact', 'https://example.com/contact.html'),
-<br>		 )
-<br>
-<br># Links area for change link menu in here
-<br>LINKS = (('Phyton', 'https://www.python.org/'),
-<br>         ('Pelician', 'https://blog.getpelican.com/'),
-<br>         ('Peliciando', 'https://github.com/mesinkasir/peliciando'),
-<br>         ('Axcora', 'https://axcora.com/getaxcoracms'),
-<br>         ('Pico', 'https://axcora.com/picobook'),)
-<br>
-<br># Social widget for insert your social menu here.
-<br>SOCIAL =  (('Facebook', 'https://fb.com/mesinkasircomplete'),
-<br>         ('Instagram', 'https://instagram.com/mesinkasircomplete'),
-<br>         ('Youtube', 'https://www.youtube.com/playlist?list=PLQDm6k9_HvYP5hlwkvNRYFColHFkyeRlM'),
-<br>         ('Github', 'https://mesinkasir.github.io'),)
-<br>
-<br># for contact page on website
-<br>CONTACTS = (('Whatsapp', 'Link Wa here'),
-<br>         ('Call Us', 'Phonelink here'),
-<br>         ('Email', 'your email here'),
-<br>         ('Map', 'Map Url here'),)
-<br>
-<br># many article will displaying on home page website
-<br>DEFAULT_PAGINATION = 10
-<br>
-<br># Uncomment following line if you want document-relative URLs when developing
+
+SITENAME = 'Pelician Phyton Website Title'
+
+SITEURL = 'example.com'
+
+
+
+# inject a pelciando themes
+
+THEME = 'peliciando'
+
+
+
+PATH = 'content'
+
+    
+
+# your time zone
+
+TIMEZONE = 'Asia/Jakarta'
+
+
+
+# web lang here
+
+DEFAULT_LANG = 'en'
+
+
+
+# Feed generation is usually not desired when developing
+
+FEED_ALL_ATOM = None
+
+CATEGORY_FEED_ATOM = None
+
+TRANSLATION_FEED_ATOM = None
+
+AUTHOR_FEED_ATOM = None
+
+AUTHOR_FEED_RSS = None
+
+
+
+# Page menu for change page on web display
+
+PAGES = (
+
+		 ('Home', 'https://example.com'),
+
+         ('About', 'https://example.com/about.html'),
+
+         ('Product', 'https://example.com/product.html'),
+
+         ('Order', 'https://example.com/order.html'),
+
+         ('Contact', 'https://example.com/contact.html'),
+
+		 )
+
+
+
+# Links area for change link menu in here
+
+LINKS = (('Phyton', 'https://www.python.org/'),
+
+         ('Pelician', 'https://blog.getpelican.com/'),
+
+         ('Peliciando', 'https://github.com/mesinkasir/peliciando'),
+
+         ('Axcora', 'https://axcora.com/getaxcoracms'),
+
+         ('Pico', 'https://axcora.com/picobook'),)
+
+
+
+# Social widget for insert your social menu here.
+
+SOCIAL =  (('Facebook', 'https://fb.com/mesinkasircomplete'),
+
+         ('Instagram', 'https://instagram.com/mesinkasircomplete'),
+
+         ('Youtube', 'https://www.youtube.com/playlist?list=PLQDm6k9_HvYP5hlwkvNRYFColHFkyeRlM'),
+
+         ('Github', 'https://mesinkasir.github.io'),)
+
+
+
+# for contact page on website
+
+CONTACTS = (('Whatsapp', 'Link Wa here'),
+
+         ('Call Us', 'Phonelink here'),
+
+         ('Email', 'your email here'),
+
+         ('Map', 'Map Url here'),)
+
+
+
+# many article will displaying on home page website
+
+DEFAULT_PAGINATION = 10
+
+
+
+# Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-</code>
+`
 
 
 --------------------------------------------------------------------------------------------------------------------
