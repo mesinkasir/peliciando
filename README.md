@@ -57,6 +57,7 @@ WORK :
 + insert THEME = 'pelicianido' on pelicanconf.py
 
 pelicanconf.py
+
 `
 AUTHOR = 'your name'
 
@@ -64,31 +65,13 @@ SITENAME = 'Pelician Phyton Website Title'
 
 SITEURL = 'example.com'
 
-
-
-# inject a pelciando themes
-
 THEME = 'peliciando'
-
-
 
 PATH = 'content'
 
-    
-
-# your time zone
-
 TIMEZONE = 'Asia/Jakarta'
 
-
-
-# web lang here
-
 DEFAULT_LANG = 'en'
-
-
-
-# Feed generation is usually not desired when developing
 
 FEED_ALL_ATOM = None
 
@@ -100,13 +83,9 @@ AUTHOR_FEED_ATOM = None
 
 AUTHOR_FEED_RSS = None
 
-
-
-# Page menu for change page on web display
-
 PAGES = (
 
-		 ('Home', 'https://example.com'),
+	 ('Home', 'https://example.com'),
 
          ('About', 'https://example.com/about.html'),
 
@@ -120,8 +99,6 @@ PAGES = (
 
 
 
-# Links area for change link menu in here
-
 LINKS = (('Phyton', 'https://www.python.org/'),
 
          ('Pelician', 'https://blog.getpelican.com/'),
@@ -134,8 +111,6 @@ LINKS = (('Phyton', 'https://www.python.org/'),
 
 
 
-# Social widget for insert your social menu here.
-
 SOCIAL =  (('Facebook', 'https://fb.com/mesinkasircomplete'),
 
          ('Instagram', 'https://instagram.com/mesinkasircomplete'),
@@ -146,8 +121,6 @@ SOCIAL =  (('Facebook', 'https://fb.com/mesinkasircomplete'),
 
 
 
-# for contact page on website
-
 CONTACTS = (('Whatsapp', 'Link Wa here'),
 
          ('Call Us', 'Phonelink here'),
@@ -157,15 +130,7 @@ CONTACTS = (('Whatsapp', 'Link Wa here'),
          ('Map', 'Map Url here'),)
 
 
-
-# many article will displaying on home page website
-
 DEFAULT_PAGINATION = 10
-
-
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 `
 
 
