@@ -1,4 +1,4 @@
-name: Build pelican-themes preview site
+name: Build pelican preview site
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
