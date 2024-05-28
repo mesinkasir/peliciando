@@ -8,6 +8,10 @@ Test drive demo [https://rakgondola.web.app/ →](https://rakgondola.web.app/)
 
 Documentation [https://www.hockeycomputindo.com/2022/03/new-pelician-template-pecliando-phyton.html →](https://www.hockeycomputindo.com/2022/03/new-pelician-template-pecliando-phyton.html)
 
+----------------------------------------
+
+### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
+
 ------------------------------------
 
 Recipes :
@@ -57,15 +61,9 @@ WORK :
 + insert THEME = 'pelicianido' on pelicanconf.py
 + or open pelicanconf.py from peliciando and copy to project/pelicanconf.py
 
---------------------------------------------------------------------------------------------------------------------
 
-### Buy me a coffee ☕️ ❤️  ✌🏻 
+----------------------------------------
 
-with moneygram or western union
-
-+ BANK CENTRAL ASIA
-+ ACCOUNT NO : 0181884109
-+ ACCOUNT NAME : SUCI CHANIFAH
-+ IBAN/SWIFT CODE : CENAIDJA
+### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
 
 --------------------------------------------------------------------------------------------------------------------
