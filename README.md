@@ -54,7 +54,7 @@ Documentation [https://www.hockeycomputindo.com/2022/03/new-pelician-template-pe
 
 WORK :
 + create venv on pelican project and activate `venv\Scripts\activate`
-+ create new folder name it themes in to your pelican project or run `mkdri themes`
++ create new folder name it themes in to your pelican project or run `mkdir themes`
 + download and upload peliciando to themes folder or `cd themes && git clone https://github.com/mesinkasir/peliciando.git`
 + open `pelicanconf.py`
 + insert THEME = `themes/pelicianido` on pelicanconf.py
